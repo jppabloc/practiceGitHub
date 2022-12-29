@@ -1,0 +1,32 @@
+    header {
+        background-color: greenyellow;
+        text-align: center;
+        font-family: 'Silkscreen', cursive;
+    }
+
+    nav {
+        background-color: rgb(210, 210, 33);
+    }
+
+    aside {
+        font-family: 'Silkscreen', cursive;
+        background-color: cadetblue;
+        width: 30%;
+        float: right;
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+
+    main {
+        margin-right: 3%;
+        background-color: rgb(171, 219, 143);
+        width: 65%;
+        float: left;
+    }
+
+    footer {
+        margin-top: 5%;
+        width: 100%;
+        float: left;
+        background-color: orange;
+    }
